@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+lake/lake_data
+lake/out_lake_plots
 .Python
 build/
 develop-eggs/
